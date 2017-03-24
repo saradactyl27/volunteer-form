@@ -1,0 +1,36 @@
+html {
+  font-family: 'Droid Serif', serif;
+}
+
+header,
+footer {
+  background-color: #70ad55;
+  color: #fff;
+}
+
+fieldset {
+  border: none
+}
+
+hr {
+  border-color: #70ad55;
+  border-width: 1px;
+}
+
+input,
+textarea {
+  border-color: #6e8c62;
+}
+
+button {
+  background-color: #6e8c62;
+  border-color: #6e8c62;
+  padding: .5rem 2rem;
+}
+
+@media only screen and (min-width: 38em) {
+
+  .m-1-2 {
+    padding-right: 1rem;
+  }
+}
